@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,negate=false": {
+      "model": "nkredstone:block/or_gate",
+      "y": 270
+    },
+    "facing=east,negate=true": {
+      "model": "nkredstone:block/or_gate_on",
+      "y": 270
+    },
+    "facing=north,negate=false": {
+      "model": "nkredstone:block/or_gate",
+      "y": 180
+    },
+    "facing=north,negate=true": {
+      "model": "nkredstone:block/or_gate_on",
+      "y": 180
+    },
+    "facing=south,negate=false": {
+      "model": "nkredstone:block/or_gate"
+    },
+    "facing=south,negate=true": {
+      "model": "nkredstone:block/or_gate_on"
+    },
+    "facing=west,negate=false": {
+      "model": "nkredstone:block/or_gate",
+      "y": 90
+    },
+    "facing=west,negate=true": {
+      "model": "nkredstone:block/or_gate_on",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "nkredstone",
+  "version": "${version}",
+
+  "name": "NK Redstone Mod",
+  "description": "Add some redstone blocks.",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "https://github.com/november-kilo",
+    "sources": "https://github.com/november-kilo/nk-fabric-redstone"
+  },
+
+  "license": "MIT",
+  "icon": "assets/nkredstone/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.nkredstone.NkRedstoneMod"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

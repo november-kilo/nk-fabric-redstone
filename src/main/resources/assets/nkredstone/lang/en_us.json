@@ -1,0 +1,8 @@
+{
+  "block.nkredstone.and_gate": "Redstone AND Gate",
+  "block.nkredstone.or_gate": "Redstone OR Gate",
+  "block.nkredstone.xor_gate": "Redstone XOR Gate",
+  "block.nkredstone.variable_emitter": "Redstone Emitter",
+  "block.nkredstone.variable_inverter": "Redstone Inverter",
+  "block.nkredstone.variable_resistor": "Redstone Resistor"
+}
